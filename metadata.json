@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "Interactive expense tracker built for a CV project. Features real-time charting, total balance monitoring, overbudget warnings, and a custom manual sorting algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
